@@ -12,9 +12,13 @@
 
 ## Git
 
-[깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html )
+- [깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html )
 
 
+
+## JAVA
+
+- [자바 메모리 모델](http://parkcheolu.tistory.com/m/14)
 
 ## 커리어
 
