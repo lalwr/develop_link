@@ -13,6 +13,7 @@
 ## Git
 
 - [깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html )
+- [git add -p 와 git commit -v 의 사용](https://blog.outsider.ne.kr/1247 )
 
 
 
