@@ -20,6 +20,7 @@
 ## JAVA
 
 - [자바 메모리 모델](http://parkcheolu.tistory.com/m/14)
+- [JDK8 적용 후, 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
 
 
 
@@ -38,6 +39,7 @@
 ## ETC
 
 - [개발자가 블로그를 운영해야 할 이유](https://taegon.kim/archives/7107 )
+- [[번역] 더 나은 개발자가 되는 8 가지 방법](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114)
 
 ## 멘토링
 
