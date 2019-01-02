@@ -24,6 +24,12 @@
 
 
 
+## JPA
+
+- [Ksug2015 - JPA1, JPA 소개](https://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
+
+
+
 ## SERVER
 
 - [HTTP 쿠키와 톰캣 버전별 이슈](https://meetup.toast.com/posts/172)
