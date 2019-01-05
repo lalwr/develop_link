@@ -46,14 +46,20 @@
 
 - [인텔리J 활용 꿀팁 42가지 정리](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
 
+
+
 ## ETC
 
 - [개발자가 블로그를 운영해야 할 이유](https://taegon.kim/archives/7107 )
-- [[번역] 더 나은 개발자가 되는 8 가지 방법](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114)
+- [[번역] 더 나은 개발자가 되는 8 가지 방법](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%A%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114)
+- [회사에서 인정받는 8가지 방법](https://brunch.co.kr/@kinghong/35)
+
+
 
 ## 멘토링
 
 - [릴랏 멘토링 가이드](https://kr.rellat.com/2017/05/blog-post_12.html )
+
 
 
 
