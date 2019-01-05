@@ -24,6 +24,12 @@
 
 
 
+## Spring
+
+- [Spring 내가 생각하는 캡슐화 part 1](https://www.popit.kr/20184-2/)
+
+
+
 ## JPA
 
 - [Ksug2015 - JPA1, JPA 소개](https://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
