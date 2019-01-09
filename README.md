@@ -1,6 +1,8 @@
 # 개발자를 위한 링크 저장소
 
-개발자에게 도움되 링크를 모으는 저장소 입니다.
+> 개발자에게 도움되는 링크를 모으는 저장소 입니다.
+
+
 
 ## AWS
 
@@ -21,6 +23,8 @@
 
 - [자바 메모리 모델](http://parkcheolu.tistory.com/m/14)
 - [JDK8 적용 후, 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
+- [뒤늦게 배워보자, Java 8 Part. 5](http://blog.weirdx.io/post/55566)
+- [10 Tools Java Developers Should Learn in 2019](https://dzone.com/articles/10-tools-java-developers-should-learn-in-2019)
 
 
 
@@ -42,6 +46,12 @@
 
 
 
+## Docker
+
+- [Docker 치트 시트](https://gist.github.com/nacyot/8366310)
+
+
+
 ## 인프라
 
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR00_dC1HaCSA3PfvtRpopsJp0rT9Z3km9kKKDYYvLEZHsSYssinZAxhV5E)
@@ -51,6 +61,12 @@
 ## DB
 
 - [개념 정리 - 데이터베이스 편](https://brunch.co.kr/@toughrogrammer/17)
+
+
+
+## OS
+
+- [Vim에 매료되다. (Feat.Happy Hacking)](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
 
 
 
@@ -69,6 +85,12 @@
 ## Browser
 
 - [[크롬 개발자 도구 101](https://lqez.github.io/blog/chrome-dev-tool-101.html)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
+
+
+
+## BOOK
+
+- [객체 모델링 공부하게 책 하나 추천해주세요](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 
 
 
