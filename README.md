@@ -72,6 +72,7 @@
 ## DB
 
 - [개념 정리 - 데이터베이스 편](https://brunch.co.kr/@toughrogrammer/17)
+- [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 
 
 
