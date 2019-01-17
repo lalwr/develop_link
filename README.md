@@ -56,7 +56,6 @@
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667?fbclid=IwAR0q2_sNCbtneWRTOUTFpGOaAXFT15PGKSQDD-90fovzEbCHYQZcdgeq55s)
 
 
-
 ## Docker
 
 - [Docker 치트 시트](https://gist.github.com/nacyot/8366310)
@@ -106,12 +105,19 @@
 
 
 
+## Docs
+
+- [API 디자인](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design#organize-the-api-around-resources)
+
+
+
 ## ETC
 
 - [개발자가 블로그를 운영해야 할 이유](https://taegon.kim/archives/7107 )
 - [[번역] 더 나은 개발자가 되는 8 가지 방법](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%A%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114)
 - [회사에서 인정받는 8가지 방법](https://brunch.co.kr/@kinghong/35)
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
+- [개발자의 효율성](https://brunch.co.kr/@hika/7)
 
 
 
