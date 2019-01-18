@@ -32,6 +32,9 @@
 
 - [자바 바이트코드 소개](https://iamsang.com/blog/2012/08/19/introduction-to-java-bytecode/)
 
+- [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
+
+
 
 ## Spring
 
@@ -54,6 +57,9 @@
 ## NETWORK
 
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667?fbclid=IwAR0q2_sNCbtneWRTOUTFpGOaAXFT15PGKSQDD-90fovzEbCHYQZcdgeq55s)
+- [RESTful, Stateless, HATEOAS](http://anster.tistory.com/163)
+
+
 
 
 ## Docker
@@ -118,6 +124,7 @@
 - [회사에서 인정받는 8가지 방법](https://brunch.co.kr/@kinghong/35)
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
 - [개발자의 효율성](https://brunch.co.kr/@hika/7)
+- [[생각정리]소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
 
 
 
@@ -130,3 +137,4 @@
 ## 면접
 
 - [구글 면접 후기](https://norang.io/diary/interview_review/)
+- [기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
