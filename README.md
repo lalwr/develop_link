@@ -54,6 +54,12 @@
 
 
 
+## JavaScript
+
+- [자바스크립트 호출 스택(Call Stack) 이해하기](https://new93helloworld.tistory.com/m/358)
+
+
+
 ## NETWORK
 
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667?fbclid=IwAR0q2_sNCbtneWRTOUTFpGOaAXFT15PGKSQDD-90fovzEbCHYQZcdgeq55s)
@@ -138,3 +144,9 @@
 
 - [구글 면접 후기](https://norang.io/diary/interview_review/)
 - [기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
+
+
+
+## 세미나 자료
+
+- [OKKYCON: 2018](https://okky.kr/article/538114)
