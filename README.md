@@ -85,7 +85,6 @@
 
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR00_dC1HaCSA3PfvtRpopsJp0rT9Z3km9kKKDYYvLEZHsSYssinZAxhV5E)
 
-  
 
 ## DB
 
@@ -116,6 +115,7 @@
 ## Browser
 
 - [[크롬 개발자 도구 101](https://lqez.github.io/blog/chrome-dev-tool-101.html)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
+- [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 
 
 
