@@ -23,16 +23,12 @@
 ## JAVA
 
 - [자바 메모리 모델](http://parkcheolu.tistory.com/m/14)
-
 - [JDK8 적용 후, 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
-
 - [뒤늦게 배워보자, Java 8 Part. 5](http://blog.weirdx.io/post/55566)
-
 - [10 Tools Java Developers Should Learn in 2019](https://dzone.com/articles/10-tools-java-developers-should-learn-in-2019)
-
 - [자바 바이트코드 소개](https://iamsang.com/blog/2012/08/19/introduction-to-java-bytecode/)
-
 - [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
+- [자바 메모리 관리 - 가비지 컬렉션](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
 
 
 
@@ -64,6 +60,7 @@
 
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667?fbclid=IwAR0q2_sNCbtneWRTOUTFpGOaAXFT15PGKSQDD-90fovzEbCHYQZcdgeq55s)
 - [RESTful, Stateless, HATEOAS](http://anster.tistory.com/163)
+- [[Network] HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
 
 
 
@@ -84,6 +81,8 @@
 ## 인프라
 
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR00_dC1HaCSA3PfvtRpopsJp0rT9Z3km9kKKDYYvLEZHsSYssinZAxhV5E)
+
+
 
 
 ## DB
