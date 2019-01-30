@@ -17,6 +17,7 @@
 - [깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html )
 - [git add -p 와 git commit -v 의 사용](https://blog.outsider.ne.kr/1247 )
 - [Git 브랜치 배우기 실습](https://learngitbranching.js.org/)
+- [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
 
 
 
