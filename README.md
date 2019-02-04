@@ -36,6 +36,7 @@
 ## Spring
 
 - [Spring 내가 생각하는 캡슐화 part 1](https://www.popit.kr/20184-2/)
+- [IoC (DI, Service Locator...)](https://alwayspr.tistory.com/38)
 
 
 
