@@ -142,6 +142,7 @@
 - [[생각정리]소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
 - [[MeltingCon 2018] 기술서 번역이 개발자의 삶에 미치는 영향에 대하여 - 신상재](https://www.youtube.com/watch?v=3oigv0MUlWw&feature=youtu.be)
 - [문서화에 대해 아무도 말해주지 않는 것들](http://blog.weirdx.io/post/60414)
+- [3년차 웹 개발자](http://blog.kingbbode.com/posts/who-am-i-3)
 
 
 
