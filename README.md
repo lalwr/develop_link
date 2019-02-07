@@ -63,6 +63,7 @@
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667?fbclid=IwAR0q2_sNCbtneWRTOUTFpGOaAXFT15PGKSQDD-90fovzEbCHYQZcdgeq55s)
 - [RESTful, Stateless, HATEOAS](http://anster.tistory.com/163)
 - [[Network] HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
+- [안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
 
 
 
