@@ -6,6 +6,10 @@
 
 ## AWS
 
+- [AWS VPC basic](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
+
+
+
 ### Book
 
 - [아마존 웹 서비스를 다루는 기술](http://pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book )
