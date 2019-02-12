@@ -122,6 +122,7 @@
 
 - [[크롬 개발자 도구 101](https://lqez.github.io/blog/chrome-dev-tool-101.html)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
+- [크롬개발도구 사용법(영어)](https://youtu.be/oYvtsHu6GmY)
 
 
 
