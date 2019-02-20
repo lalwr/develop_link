@@ -43,6 +43,7 @@
 - [Spring 내가 생각하는 캡슐화 part 1](https://www.popit.kr/20184-2/)
 - [IoC (DI, Service Locator...)](https://alwayspr.tistory.com/38)
 - [Spring 프레임워크 워크북을 위한 도서 로드맵](http://www.javajigi.net/pages/viewpage.action?pageId=207061048)
+- [Spring Guide - 테스팅 전략](https://www.popit.kr/spring-guide-%ED%85%8C%EC%8A%A4%ED%8C%85-%EC%A0%84%EB%9E%B5/)
 
 
 
