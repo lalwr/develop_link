@@ -72,6 +72,7 @@
 - [RESTful, Stateless, HATEOAS](http://anster.tistory.com/163)
 - [[Network] HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
 - [안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
+- [HTTP/3 해설 한국어](https://http3-explained.haxx.se/ko/)
 
 
 
