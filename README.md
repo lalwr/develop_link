@@ -173,6 +173,20 @@
 
 
 
+## 취업관련
+
+- [기술 면저 인터뷰 자료](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- []()
+
+
+
 ## 세미나 자료
 
 - [OKKYCON: 2018](https://okky.kr/article/538114)
+
+
+
+## 저장소 추천
+
+- [고퀄리티 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents#java--spring)
+- 
