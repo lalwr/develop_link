@@ -38,6 +38,7 @@
 - [Design Patterns in Java Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm)
 - [Java 스트림 Stream 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams/)
 - [Java Lambda](<https://futurecreator.github.io/2018/07/19/java-lambda-basics/>)
+- [객체지향 개발 5대 원리: SOLID](http://www.nextree.co.kr/p6960/)
 
 
 
