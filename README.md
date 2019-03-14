@@ -79,6 +79,7 @@
 - [안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
 - [HTTP/3 해설 한국어](https://http3-explained.haxx.se/ko/)
 - [NAVER D2 Day1, 2-2. 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc&app=desktop)
+- [리눅스 관리자 네트워크 트러블슈팅, 디버깅 명령어](https://www.tecmint.com/linux-networking-commands/?fbclid=IwAR2M38i44cdLGkOtZuu43gpZSwsVA3KmXL4MU952c6WpFmvIUp59fbfhxJE#host)
 
 
 
