@@ -50,6 +50,7 @@
 - [Spring Guide - 테스팅 전략](https://www.popit.kr/spring-guide-%ED%85%8C%EC%8A%A4%ED%8C%85-%EC%A0%84%EB%9E%B5/)
 - [ Spring 실전 가이드](https://github.com/cheese10yun/spring-guide)
 - [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
+- [Inversion of (Coupling) Control in Java](https://dzone.com/articles/inversion-of-coupling-control)
 
 
 
