@@ -51,6 +51,7 @@
 - [ Spring 실전 가이드](https://github.com/cheese10yun/spring-guide)
 - [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
 - [Inversion of (Coupling) Control in Java](https://dzone.com/articles/inversion-of-coupling-control)
+- [DI는 IoC를 사용하지 않아도 된다](http://jwchung.github.io/DI%EB%8A%94-IoC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EB%90%9C%EB%8B%A4)
 
 
 
