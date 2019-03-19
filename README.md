@@ -39,6 +39,7 @@
 - [Java 스트림 Stream 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams/)
 - [Java Lambda](<https://futurecreator.github.io/2018/07/19/java-lambda-basics/>)
 - [객체지향 개발 5대 원리: SOLID](http://www.nextree.co.kr/p6960/)
+- [Anti-OOP : if 를 피하고 싶어서](http://redutan.github.io/2016/03/31/anti-oop-if)
 
 
 
