@@ -170,6 +170,7 @@
 - [개발자의 글쓰기(김철수 지음) PDF](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view)
 - [확장하기 쉬운 코드가 아니라 삭제하기 쉬운 코드를 작성하자](https://harfangk.github.io/2016/10/30/write-code-that-is-easy-to-delete-not-easy-to-extend-ko.html)
 - [패러다임, 디자인 패턴, 리팩터링의 중요성 그리고 성능에 대해](https://okky.kr/article/559243)
+- [개발 미션과 함께 읽는 클린 코드](http://woowabros.github.io/study/2019/03/20/cleancode.html)
 
 
 
@@ -202,4 +203,7 @@
 ## 저장소 추천
 
 - [고퀄리티 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents#java--spring)
-- 
+- [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md)
+- [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [국내 개발자 블로그 모음](https://github.com/sarojaba/awesome-devblog)
+- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
