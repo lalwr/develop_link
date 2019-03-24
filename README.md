@@ -92,6 +92,7 @@
 
 - [Docker 치트 시트](https://gist.github.com/nacyot/8366310)
 - [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+- [도커 컴포즈를 활용하여 완벽한 개발 환경 구성하기](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)
 
 
 
