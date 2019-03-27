@@ -174,6 +174,7 @@
 - [확장하기 쉬운 코드가 아니라 삭제하기 쉬운 코드를 작성하자](https://harfangk.github.io/2016/10/30/write-code-that-is-easy-to-delete-not-easy-to-extend-ko.html)
 - [패러다임, 디자인 패턴, 리팩터링의 중요성 그리고 성능에 대해](https://okky.kr/article/559243)
 - [개발 미션과 함께 읽는 클린 코드](http://woowabros.github.io/study/2019/03/20/cleancode.html)
+- [java-persistence-frameworks-comparison](https://github.com/bwajtr/java-persistence-frameworks-comparison)
 
 
 
