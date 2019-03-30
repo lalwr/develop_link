@@ -179,6 +179,12 @@
 
 
 
+## 도서 정리
+
+- [Clean Code](http://sungjk.github.io/2017/07/27/clean-code.html)
+
+
+
 ## 멘토링
 
 - [릴랏 멘토링 가이드](https://kr.rellat.com/2017/05/blog-post_12.html )
@@ -195,7 +201,6 @@
 ## 취업관련
 
 - [기술 면저 인터뷰 자료](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-- []()
 
 
 
