@@ -42,8 +42,7 @@
 - [Java Lambda](<https://futurecreator.github.io/2018/07/19/java-lambda-basics/>)
 - [객체지향 개발 5대 원리: SOLID](http://www.nextree.co.kr/p6960/)
 - [Anti-OOP : if 를 피하고 싶어서](http://redutan.github.io/2016/03/31/anti-oop-if)
-
-
+- [[일급 컬렉션 (First Class Collection)의 소개와 써야할 이유](https://jojoldu.tistory.com/412)](https://jojoldu.tistory.com/412)
 
 ## Spring
 
