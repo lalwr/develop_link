@@ -204,6 +204,12 @@
 
 
 
+## 알고리즘
+
+- [알고리즘 공부, 어떻게 해야하나요?](https://baactree.tistory.com/52)
+
+
+
 ## 세미나 자료
 
 - [OKKYCON: 2018](https://okky.kr/article/538114)
