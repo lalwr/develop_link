@@ -123,6 +123,7 @@
 ## OS
 
 - [Vim에 매료되다. (Feat.Happy Hacking)](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
+- [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
 
 
 
