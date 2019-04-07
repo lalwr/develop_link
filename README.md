@@ -178,6 +178,7 @@
 - [패러다임, 디자인 패턴, 리팩터링의 중요성 그리고 성능에 대해](https://okky.kr/article/559243)
 - [개발 미션과 함께 읽는 클린 코드](http://woowabros.github.io/study/2019/03/20/cleancode.html)
 - [java-persistence-frameworks-comparison](https://github.com/bwajtr/java-persistence-frameworks-comparison)
+- [클린 코드와 소프트웨어 장인 정신](https://medium.com/@joongwon/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C%EC%99%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-59b4d8d143ed)
 
 
 
