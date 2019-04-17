@@ -58,9 +58,9 @@
 - [DI는 IoC를 사용하지 않아도 된다](http://jwchung.github.io/DI%EB%8A%94-IoC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EB%90%9C%EB%8B%A4)
 - [Spring 의 시작, 프레임워크의 구성요소와 동작원리](https://asfirstalways.tistory.com/334)
 - [초보가 이해하는 스프링 시큐리티](https://okky.kr/article/382738)
+- [Spring AOP를 학습하기 전 AOP 개념 정리](https://gmun.github.io/spring/aop/2019/01/15/aspect-oriented-programming-concept.html)
 - [Spring AOP로 메소드 시간 측정하기](https://gmun.github.io/spring/aop/2019/03/01/spring-aop-choosing.html)
-
-
+>>>>>>
 
 ## JPA
 
