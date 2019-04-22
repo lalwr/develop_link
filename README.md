@@ -207,12 +207,13 @@
 
 - [구글 면접 후기](https://norang.io/diary/interview_review/)
 - [기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
+- [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 
 
 
 ## 취업관련
 
-- [기술 면저 인터뷰 자료](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [기술 면접 인터뷰 자료](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [이직 회고록](https://m.blog.naver.com/PostView.nhn?blogId=gngh0101&logNo=221295043724&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
 
 
