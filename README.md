@@ -191,8 +191,9 @@
 
 
 
-## 도서 정리
+## 도서
 
+- [내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선(20190409)](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
 - [Clean Code](http://sungjk.github.io/2017/07/27/clean-code.html)
 
 
