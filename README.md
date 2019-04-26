@@ -129,6 +129,7 @@
 - [Vim에 매료되다. (Feat.Happy Hacking)](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
 - [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+- [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#first-commands)
 
 
 
