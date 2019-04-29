@@ -25,6 +25,7 @@
 - [Pro Git Book](https://git-scm.com/book/ko/v2)
 - [Top 20 Git Commands With Examples](https://dzone.com/articles/top-20-git-commands-with-examples)
 - [Git flow, GitHub flow, GitLab flow](https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/)
+- [여러 git 리파지토리 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
 
 
