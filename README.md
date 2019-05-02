@@ -192,6 +192,7 @@
 - [문서화에 대해 아무도 말해주지 않는 것들](http://blog.weirdx.io/post/60414)
 - [훌륭한 개발자란 무엇일까](https://brunch.co.kr/@mystoryg/61)
 - [4년을 기다린 인프런 서비스 리뉴얼 오픈](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
+- [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
 
 
 
