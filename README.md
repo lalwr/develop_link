@@ -196,6 +196,7 @@
 - [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
 - [따라가지 않으면, 도태되는 걸까](https://brunch.co.kr/@pronist/6)
 - [소프트웨어 아키텍처에 대해 알아보기](https://brunch.co.kr/@mobiinside/1514)
+- [언어별 프로젝트 기반 학습](https://github.com/tuvtran/project-based-learning)
 
 
 
