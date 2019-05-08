@@ -197,6 +197,7 @@
 - [따라가지 않으면, 도태되는 걸까](https://brunch.co.kr/@pronist/6)
 - [소프트웨어 아키텍처에 대해 알아보기](https://brunch.co.kr/@mobiinside/1514)
 - [언어별 프로젝트 기반 학습](https://github.com/tuvtran/project-based-learning)
+- [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
 
 
 
