@@ -198,6 +198,7 @@
 - [소프트웨어 아키텍처에 대해 알아보기](https://brunch.co.kr/@mobiinside/1514)
 - [언어별 프로젝트 기반 학습](https://github.com/tuvtran/project-based-learning)
 - [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
+- [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
 
 
 
