@@ -207,6 +207,7 @@
 - [언어별 프로젝트 기반 학습](https://github.com/tuvtran/project-based-learning)
 - [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
 - [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
+- [넷플릭스의 문화 : 자유와 책임 (한국어 번역본)](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
 
 
 
