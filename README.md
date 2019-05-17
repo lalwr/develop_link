@@ -48,6 +48,8 @@
 - [[번역]쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론](https://medium.com/@cmygray/%EB%B2%88%EC%97%AD-%EC%89%AC%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-5%EB%8B%A8%EA%B3%84-%EB%B0%A9%EB%B2%95%EB%A1%A0-b82fea6c8d90)
 - [Java gc log 분석, 시각화하는 무료 사이트 추천 gceasy.io](https://blog.voidmainvoid.net/213)
 
+
+
 ## Spring
 
 - [Spring 내가 생각하는 캡슐화 part 1](https://www.popit.kr/20184-2/)
@@ -62,7 +64,9 @@
 - [초보가 이해하는 스프링 시큐리티](https://okky.kr/article/382738)
 - [Spring AOP를 학습하기 전 AOP 개념 정리](https://gmun.github.io/spring/aop/2019/01/15/aspect-oriented-programming-concept.html)
 - [Spring AOP로 메소드 시간 측정하기](https://gmun.github.io/spring/aop/2019/03/01/spring-aop-choosing.html)
->>>>>>
+- [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
+
+
 
 ## JPA
 
