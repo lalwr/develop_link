@@ -213,6 +213,7 @@
 - [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
 - [넷플릭스의 문화 : 자유와 책임 (한국어 번역본)](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
 - [뛰어난 개발자는 뽑히는 게 아니라 길러집니다.](https://muchtrans.com/translations/great-developers-are-raised.ko.html)
+- [적당히 잘하는 개발자](https://javacan.tistory.com/entry/%EC%A0%81%EB%8B%B9%ED%9E%88-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 
 
 
