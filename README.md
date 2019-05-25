@@ -134,6 +134,7 @@
 ## Redis
 
 - [Redis 잘 쓰는법[?]](https://www.slideshare.net/charsyam2/how-to-use-redis-well)
+- [Jedis 보다 Lettuce 를 쓰자](https://jojoldu.tistory.com/418)
 
 
 
