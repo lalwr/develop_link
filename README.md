@@ -217,6 +217,7 @@
 - [뛰어난 개발자는 뽑히는 게 아니라 길러집니다.](https://muchtrans.com/translations/great-developers-are-raised.ko.html)
 - [적당히 잘하는 개발자](https://javacan.tistory.com/entry/%EC%A0%81%EB%8B%B9%ED%9E%88-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 - [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
+- [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
 
 
 
