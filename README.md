@@ -260,6 +260,8 @@
 ## 세미나 자료
 
 - [OKKYCON: 2018](https://okky.kr/article/538114)
+- SPRING CAMP
+  - [무엇을 테스트할 것인가, 어떻게 테스트할 것인가](https://www.slideshare.net/ssuser59a869/ksug-2019)
 
 
 
