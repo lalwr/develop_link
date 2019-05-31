@@ -183,6 +183,12 @@
 
 
 
+## Mac
+
+- [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
+
+
+
 ## ETC
 
 - [개발자가 블로그를 운영해야 할 이유](https://taegon.kim/archives/7107 )
