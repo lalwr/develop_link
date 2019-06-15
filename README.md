@@ -49,6 +49,7 @@
 - [Java gc log 분석, 시각화하는 무료 사이트 추천 gceasy.io](https://blog.voidmainvoid.net/213)
 - [Cloud Native Java GraalVM 이상과 현실](https://www.slideshare.net/TaewanKim/cloud-native-java-graalvm)
 - [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
+- [Checked Exception을 대하는 자세](https://github.com/cheese10yun/blog-sample/tree/master/exception)
 
 
 
