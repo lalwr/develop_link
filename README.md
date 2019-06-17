@@ -229,6 +229,7 @@
 - [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
 - [비전공자가 스타트업 개발자로 취업할 때 참고하면 좋을 것들](https://leejungdo.com/blog/2019/05/03/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EA%B0%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%A0-%EB%95%8C-%EC%B0%B8%EA%B3%A0%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84-%EA%B2%83%EB%93%A4(1).html)
 - [(자막)[NDC19] 좋은 로그란 무엇인가?: 좋은 로그를 위해 고려해야 할 것들](https://speakerdeck.com/devinjeon/jamag-ndc19-joheun-rogeuran-mueosinga-joheun-rogeureul-wihae-goryeohaeya-hal-geosdeul?slide=252)
+- [결혼식 청첩장 Github blog로 세련되게 만들기. 후기!](https://blog.voidmainvoid.net/217)
 
 
 
