@@ -231,6 +231,7 @@
 - [(자막)[NDC19] 좋은 로그란 무엇인가?: 좋은 로그를 위해 고려해야 할 것들](https://speakerdeck.com/devinjeon/jamag-ndc19-joheun-rogeuran-mueosinga-joheun-rogeureul-wihae-goryeohaeya-hal-geosdeul?slide=252)
 - [결혼식 청첩장 Github blog로 세련되게 만들기. 후기!](https://blog.voidmainvoid.net/217)
 - [소프트웨어 개발자 되기는 왜 어려운가?](https://hl1itj.tistory.com/m/136?category=327240)
+- [Notion 1년간의 사용기](https://velog.io/@godori/Notion-1%EB%85%84%EA%B0%84%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B8%B0-x7jon062yu)
 
 
 
