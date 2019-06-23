@@ -50,6 +50,7 @@
 - [Cloud Native Java GraalVM 이상과 현실](https://www.slideshare.net/TaewanKim/cloud-native-java-graalvm)
 - [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
 - [Checked Exception을 대하는 자세](https://github.com/cheese10yun/blog-sample/tree/master/exception)
+- [우아한 객체지향](https://www.slideshare.net/baejjae93/ss-150432699)
 
 
 
