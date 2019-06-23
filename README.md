@@ -68,6 +68,7 @@
 - [Spring AOP를 학습하기 전 AOP 개념 정리](https://gmun.github.io/spring/aop/2019/01/15/aspect-oriented-programming-concept.html)
 - [Spring AOP로 메소드 시간 측정하기](https://gmun.github.io/spring/aop/2019/03/01/spring-aop-choosing.html)
 - [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
+- [MyBatis @Mapper 인터페이스는 어떻게 스프링 빈으로 와이어될 수 있을까?](http://wiki.sys4u.co.kr/pages/viewpage.action?pageId=7767258)
 
 
 
