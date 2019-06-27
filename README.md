@@ -311,6 +311,7 @@
 - [구글 면접 후기](https://norang.io/diary/interview_review/)
 - [기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
 - [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
+- [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
 
 
 
