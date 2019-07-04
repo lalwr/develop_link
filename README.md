@@ -193,6 +193,7 @@
 - [[크롬 개발자 도구 101](https://lqez.github.io/blog/chrome-dev-tool-101.html)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 - [크롬개발도구 사용법(영어)](https://youtu.be/oYvtsHu6GmY)
+- [2019년 브라우저의 상태](https://medium.com/@euncho/2019%EB%85%84-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EC%83%81%ED%83%9C-e73ab86bcbd0)
 
 
 
