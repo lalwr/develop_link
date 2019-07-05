@@ -7,6 +7,7 @@
 ## AWS
 
 - [AWS VPC basic](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
+- [Amazon Aurora MySQL Database Administrator’s Handbook (요약 및 의역)](http://blog.hwang.gg/20190702/)
 
 
 
