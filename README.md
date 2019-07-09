@@ -74,6 +74,7 @@
 - [[Spring Framework] 스프링 환경에서 런타임 전략패턴](https://www.manty.co.kr/bbs/detail/develop?id=47)
 - [WebFlux로 Asynchronous & Non-blocking I/O 전환하여 API 성능 튜닝하기](https://pkgonan.github.io/2019/06/webflux-asynchronous-non-blocking-io-tuning?fbclid=IwAR1MVvTpHHn08WVlyZVBukrA9cqSizG4kHb5HyREP2LoE3dBME1uPau6KHY)
 - [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html?fbclid=IwAR2VTUT3Jg3M1nz3_HDw65grcgOU5Y_wjW3T-SBMaURrOIUXoqZVMKX0vvg)
+- [스프링부트 테스트(1)](https://brunch.co.kr/@springboot/207)
 
 
 
