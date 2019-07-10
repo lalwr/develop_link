@@ -311,6 +311,7 @@
 - [OKKYCON: 2018](https://okky.kr/article/538114)
 - SPRING CAMP
   - [무엇을 테스트할 것인가, 어떻게 테스트할 것인가](https://www.slideshare.net/ssuser59a869/ksug-2019)
+  - [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829)
 - [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
 
 
