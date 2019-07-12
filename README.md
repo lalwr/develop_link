@@ -313,6 +313,7 @@
 - SPRING CAMP
   - [무엇을 테스트할 것인가, 어떻게 테스트할 것인가](https://www.slideshare.net/ssuser59a869/ksug-2019)
   - [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829)
+  - [당신도 할 수 있는 레거시 프로젝트 개선 이야기](https://github.com/LeeKyoungIl/SpringCamp2019)
 - [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
 
 
