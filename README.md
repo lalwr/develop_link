@@ -288,6 +288,7 @@
 - [기술면접 자료 Repository](https://github.com/WeareSoft/tech-interview)
 - [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 - [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
+- [[개발자 인터뷰 시 면접관에게 할 만한 질문 모음](https://gomcine.tistory.com/entry/웹-개발자로-입사하기-전에-면접관에게-해야할-질문)](https://gomcine.tistory.com/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%9E%85%EC%82%AC%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%A9%B4%EC%A0%91%EA%B4%80%EC%97%90%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A7%88%EB%AC%B8)
 
 
 
