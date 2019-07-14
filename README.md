@@ -83,6 +83,7 @@
 ## JPA
 
 - [Ksug2015 - JPA1, JPA 소개](https://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
+- [Alternatives to JPA](https://www.youtube.com/watch?feature=youtu.be&v=2zQdmC0vnFU&app=desktop)
 
 
 
