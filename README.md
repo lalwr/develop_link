@@ -8,6 +8,7 @@
 
 - [AWS VPC basic](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
 - [Amazon Aurora MySQL Database Administrator’s Handbook (요약 및 의역)](http://blog.hwang.gg/20190702/)
+- [CloudWatch에 대하여](https://www.theteams.kr/teams/1092/post/69516)
 
 
 
