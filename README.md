@@ -80,6 +80,7 @@
 - [스프링부트 테스트(1)](https://brunch.co.kr/@springboot/207)
 - [Java 와 Spring 의 Validation](https://medium.com/@gaemi/java-%EC%99%80-spring-%EC%9D%98-validation-b5191a113f5c)
 - [Spring에서 Request를 우아하게 로깅하기](https://taetaetae.github.io/2019/06/30/controller-common-logging/)
+- [Spring Webflux + JDBC(혹은 blocking call) 핸들링 방법](https://itstory.tk/entry/Spring-Webflux-JDBC%ED%98%B9%EC%9D%80-blocking-call-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%A9%EB%B2%95)
 
 
 
