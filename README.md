@@ -101,12 +101,13 @@
 ## JavaScript
 
 - [자바스크립트 호출 스택(Call Stack) 이해하기](https://new93helloworld.tistory.com/m/358)
+- [](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
 
 
 
 ## CSS
 
-- [](https://brunch.co.kr/@skykamja24/267)
+- [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기 [번역]](https://brunch.co.kr/@skykamja24/267)
 
 
 
