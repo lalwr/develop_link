@@ -152,6 +152,7 @@
 - [안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/?fbclid=IwAR3CWeOtDcfuVDOyWNupq-d00tFdqP-QWun-RawAXJoFSqL7lxCxBg47LMw)
 - [[우아한테크토크] 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남다?!](https://www.youtube.com/watch?v=MTSn93rNPPE&feature=youtu.be)
 - [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
+- [대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)
 
 
 
@@ -300,6 +301,7 @@
 - [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 - [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
 - [[개발자 인터뷰 시 면접관에게 할 만한 질문 모음](https://gomcine.tistory.com/entry/웹-개발자로-입사하기-전에-면접관에게-해야할-질문)](https://gomcine.tistory.com/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%9E%85%EC%82%AC%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%A9%B4%EC%A0%91%EA%B4%80%EC%97%90%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A7%88%EB%AC%B8)
+- [](http://blog.hwang.gg/20190612/?fbclid=IwAR2diLI7kdkbZOd529lEIKsF1hTItmkdOknfXEUi9yip-8OTd6jc9eYy-qs)
 
 
 
