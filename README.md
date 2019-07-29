@@ -185,6 +185,7 @@
 ## 후기
 
 - [[우아한테크코스 ] 1주차 미션 리뷰 후기](https://www.notion.so/1-cd9436bd2b6b4d8cb1509037e08a8820)
+- [5월 우아한 Tech 세미나 후기](http://woowabros.github.io/woowabros/2019/05/09/techseminar-java-performance.html)
 
 
 
