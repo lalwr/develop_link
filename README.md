@@ -278,7 +278,8 @@
 - [개발 과제를 준비하는 팁 10가지](https://medium.com/@gojbpark/%EA%B0%9C%EB%B0%9C-%EA%B3%BC%EC%A0%9C%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%ED%8C%81-10%EA%B0%80%EC%A7%80-372d00c3db8)
 - [휼륭한 개발자란 무엇일까](https://brunch.co.kr/@mystoryg/61)
 - [마이리얼트립 사업개발팀에서 리크루터가 되었습니다](https://brunch.co.kr/@philosper1/27)
-- [실력이 스펙을 이긴다, '삼성 Y수석의 비밀'](https://jolggu.tistory.com/63)](https://jolggu.tistory.com/63)
+- [실력이 스펙을 이긴다, '삼성 Y수석의 비밀'](https://jolggu.tistory.com/63)
+- [스터디 모임 방법 몇 가지](http://agile.egloos.com/m/5830026)
 
 
 
