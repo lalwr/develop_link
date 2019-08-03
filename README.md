@@ -84,6 +84,7 @@
 - [Spring Webflux + JDBC(혹은 blocking call) 핸들링 방법](https://itstory.tk/entry/Spring-Webflux-JDBC%ED%98%B9%EC%9D%80-blocking-call-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%A9%EB%B2%95)
 - [Spring Boot Test](https://meetup.toast.com/posts/124)
 - [Spring Guide - 외부 API 가이드](https://www.popit.kr/spring-guide-%EC%99%B8%EB%B6%80-api-%EA%B0%80%EC%9D%B4%EB%93%9C/?fbclid=IwAR1AN99j-NQLhA9_cr7IcoMZ0h8t0ik2eFJDt1b0t6_aA-Hnm48TxuiiZCM)
+- [스프링 부트 유투브 강의 - 백기선 ](https://www.youtube.com/playlist?list=PLfI752FpVCS8tDT1QEYwcXmkKDz-_6nm3)
 
 
 
