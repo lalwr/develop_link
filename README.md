@@ -57,6 +57,7 @@
 - [Checked Exception을 대하는 자세](https://github.com/cheese10yun/blog-sample/tree/master/exception)
 - [우아한 객체지향](https://www.slideshare.net/baejjae93/ss-150432699)
 - [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+- [[Java] Integer.valueOf(127) == Integer.valueOf(127) 는 참일까요?](https://meetup.toast.com/posts/185)
 
 
 
