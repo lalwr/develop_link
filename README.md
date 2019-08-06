@@ -286,6 +286,7 @@
 - [마이리얼트립 사업개발팀에서 리크루터가 되었습니다](https://brunch.co.kr/@philosper1/27)
 - [실력이 스펙을 이긴다, '삼성 Y수석의 비밀'](https://jolggu.tistory.com/63)
 - [스터디 모임 방법 몇 가지](http://agile.egloos.com/m/5830026)
+- [개인의 '성장'과 회사의 '성장'](https://brunch.co.kr/@chickenmoim/7)
 
 
 
