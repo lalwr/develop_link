@@ -127,8 +127,7 @@
 - [안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
 - [HTTP/3 해설 한국어](https://http3-explained.haxx.se/ko/)
 - [NAVER D2 Day1, 2-2. 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc&app=desktop)
-- [리눅스 관리자 네트워크 트러블슈팅, 디버깅 명령어](https://www.tecmint.com/linux-networking-commands/?fbclid=IwAR2M38i44cdLGkOtZuu43gpZSwsVA3KmXL4MU952c6WpFmvIUp59fbfhxJE#host)
-- [리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 1편](https://meetup.toast.com/posts/53)
+- [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-인증-처리-관련-삽질/)
 
 
 
@@ -186,6 +185,8 @@
 - [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#first-commands)
 - [쓰레드풀 과 ForkJoinPool](https://hamait.tistory.com/m/612)
 - [고급 Bash 스크립팅 가이드](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
+- [리눅스 관리자 네트워크 트러블슈팅, 디버깅 명령어](https://www.tecmint.com/linux-networking-commands/?fbclid=IwAR2M38i44cdLGkOtZuu43gpZSwsVA3KmXL4MU952c6WpFmvIUp59fbfhxJE#host)
+- [리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 1편](https://meetup.toast.com/posts/53)
 
 
 
