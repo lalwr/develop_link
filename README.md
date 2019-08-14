@@ -294,6 +294,7 @@
 - [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
 - [효과적으로 TDD, 리팩토링, OOP를 연습하는 방법은?](https://medium.com/@codesquad_yoda/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-tdd-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-oop%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-7ecc9ddb5d45)
 - [흔한 주니어 개발자의 VueJS 책 집필기](https://blog.martinwork.co.kr/review/2019/07/18/publish-book-for-beginner.html)
+- [마이리얼트립 프론트엔드팀은 어떻게 협업하고 있을까?](https://medium.com/myrealtrip-product/frontend-cowork-9cdb125da1ef)
 
 
 
