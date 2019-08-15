@@ -31,6 +31,7 @@
 - [[README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10초만에-깔끔하게-만드는-법)](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95)
 - [Git을 이용한 협업 워크플로우](https://lhy.kr/git-workflow)
 - [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
+- [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 
 
 
