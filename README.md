@@ -89,6 +89,7 @@
 - [Spring Boot Test](https://meetup.toast.com/posts/124)
 - [Spring Guide - 외부 API 가이드](https://www.popit.kr/spring-guide-%EC%99%B8%EB%B6%80-api-%EA%B0%80%EC%9D%B4%EB%93%9C/?fbclid=IwAR1AN99j-NQLhA9_cr7IcoMZ0h8t0ik2eFJDt1b0t6_aA-Hnm48TxuiiZCM)
 - [스프링 부트 유투브 강의 - 백기선 ](https://www.youtube.com/playlist?list=PLfI752FpVCS8tDT1QEYwcXmkKDz-_6nm3)
+- [[Spring 의 시작, 프레임워크의 구성요소와 동작원리](https://asfirstalways.tistory.com/334)](https://asfirstalways.tistory.com/334)
 
 
 
