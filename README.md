@@ -89,7 +89,8 @@
 - [Spring Boot Test](https://meetup.toast.com/posts/124)
 - [Spring Guide - 외부 API 가이드](https://www.popit.kr/spring-guide-%EC%99%B8%EB%B6%80-api-%EA%B0%80%EC%9D%B4%EB%93%9C/?fbclid=IwAR1AN99j-NQLhA9_cr7IcoMZ0h8t0ik2eFJDt1b0t6_aA-Hnm48TxuiiZCM)
 - [스프링 부트 유투브 강의 - 백기선 ](https://www.youtube.com/playlist?list=PLfI752FpVCS8tDT1QEYwcXmkKDz-_6nm3)
-- [[Spring 의 시작, 프레임워크의 구성요소와 동작원리](https://asfirstalways.tistory.com/334)](https://asfirstalways.tistory.com/334)
+- [Spring 의 시작, 프레임워크의 구성요소와 동작원리](https://asfirstalways.tistory.com/334)
+- [테스트 코드 없이 레거시 코드를 다 감수하시겠습니까?](http://woowabros.github.io/experience/2019/02/27/Working_Effectively_with_Legacy_Code.html)
 
 
 
@@ -299,6 +300,7 @@
 - [흔한 주니어 개발자의 VueJS 책 집필기](https://blog.martinwork.co.kr/review/2019/07/18/publish-book-for-beginner.html)
 - [마이리얼트립 프론트엔드팀은 어떻게 협업하고 있을까?](https://medium.com/myrealtrip-product/frontend-cowork-9cdb125da1ef)
 - [[번역]정규표현식으로는 5일 걸리는 작업, 15분만에 끝내기](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
+- 
 
 
 
