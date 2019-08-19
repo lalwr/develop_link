@@ -163,6 +163,7 @@
 - [[우아한테크토크] 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남다?!](https://www.youtube.com/watch?v=MTSn93rNPPE&feature=youtu.be)
 - [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
 - [대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)
+- [카프카 설치 시 가장 중요한 설정 4가지](https://www.popit.kr/%ec%b9%b4%ed%94%84%ec%b9%b4-%ec%84%a4%ec%b9%98-%ec%8b%9c-%ea%b0%80%ec%9e%a5-%ec%a4%91%ec%9a%94%ed%95%9c-%ec%84%a4%ec%a0%95-4%ea%b0%80%ec%a7%80/)
 
 
 
