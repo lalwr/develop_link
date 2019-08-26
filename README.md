@@ -32,6 +32,7 @@
 - [Git을 이용한 협업 워크플로우](https://lhy.kr/git-workflow)
 - [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+- [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
 
 
 
