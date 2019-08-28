@@ -309,6 +309,9 @@
 - [주니어 개발자가 준비해야 할 것들](https://www.youtube.com/watch?v=LnjqhAUUBjw&app=desktop)
 - [기술 스택이 낡아갈 때 할 수 있는 일들 (1)](https://medium.com/specupad/when-tech-stack-becomes-outdated-59581ce7a016)
 - [난 개발자인가? 그리고 앞으로는?](https://javacan.tistory.com/entry/%EB%82%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%B8%EA%B0%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%9E%EC%9C%BC%EB%A1%9C%EB%8A%94)
+- [[공부법] 같이 개발 공부를 잘 하는 법, 입사 후에 더욱 발전하는 법](https://gmlwjd9405.github.io/2018/05/05/how-to-study-for-a-developer.html)
+
+
 
 ## 도서
 
