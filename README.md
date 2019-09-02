@@ -313,6 +313,7 @@
 - [[공부법] 같이 개발 공부를 잘 하는 법, 입사 후에 더욱 발전하는 법](https://gmlwjd9405.github.io/2018/05/05/how-to-study-for-a-developer.html)
 - [개발을잘하고싶어요-네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
 - [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
+- [프로그래밍 언어 배우기의 달인](http://egloos.zum.com/agile/v/5664879)
 
 
 
