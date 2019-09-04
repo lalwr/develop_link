@@ -94,6 +94,7 @@
 - [Spring 의 시작, 프레임워크의 구성요소와 동작원리](https://asfirstalways.tistory.com/334)
 - [테스트 코드 없이 레거시 코드를 다 감수하시겠습니까?](http://woowabros.github.io/experience/2019/02/27/Working_Effectively_with_Legacy_Code.html)
 - [테스트 코드 작성에 대한 나름의 고찰](https://github.com/cheese10yun/blog-sample/blob/master/test-code/README.md)
+- [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 – 2편](https://www.popit.kr/spring-webflux%ec%99%80-kotlin%ec%9c%bc%eb%a1%9c-%eb%a7%8c%eb%93%9c%eb%8a%94-todo-%ec%84%9c%eb%b9%84%ec%8a%a4-2%ed%8e%b8/)
 
 
 
