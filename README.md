@@ -138,6 +138,7 @@
 - [NAVER D2 Day1, 2-2. 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc&app=desktop)
 - [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-인증-처리-관련-삽질/)
 - [버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3](https://brunch.co.kr/@mobiinside/1482)
+- [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
 
 
 
