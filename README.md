@@ -350,6 +350,7 @@
 - [이직 회고록](https://m.blog.naver.com/PostView.nhn?blogId=gngh0101&logNo=221295043724&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
 - [나의 대기업 취업기_1](https://brunch.co.kr/@jinsekil/31)
 - [문과생의 카카오 개발자 이직기 - 1 (서류 & 코딩테스트)](https://zorba91.tistory.com/m/270?category=876991)
+- [회사에 궁금한 점은 없나요?](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 
 
 
