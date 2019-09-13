@@ -371,6 +371,7 @@
   - [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829)
   - [당신도 할 수 있는 레거시 프로젝트 개선 이야기](https://github.com/LeeKyoungIl/SpringCamp2019)
 - [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
+- [if kakao dev 2019](https://if.kakao.com/program)
 
 
 
