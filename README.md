@@ -320,6 +320,7 @@
 - [개발을잘하고싶어요-네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
 - [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
 - [프로그래밍 언어 배우기의 달인](http://egloos.zum.com/agile/v/5664879)
+- [휴면 계정 처리 – 배치에서 온라인 시스템으로](http://www.chidoo.me/index.php/2019/09/14/from-batch-to-online-processing-in-msa/)
 
 
 
