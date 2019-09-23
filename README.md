@@ -64,6 +64,7 @@
 - [[Java] Integer.valueOf(127) == Integer.valueOf(127) 는 참일까요?](https://meetup.toast.com/posts/185)
 - [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
 - [java.lang.Object.hashCode 메소드](https://johngrib.github.io/wiki/Object-hashCode/)
+- [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 
 
 
