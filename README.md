@@ -326,6 +326,7 @@
 - [휴면 계정 처리 – 배치에서 온라인 시스템으로](http://www.chidoo.me/index.php/2019/09/14/from-batch-to-online-processing-in-msa/)
 - [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html?fbclid=IwAR0kaIP_Id48vutUvbi4aORn9JBpdyNIcOs_XaJSTtDE1mQL7JoGpd6FcJQ)
 - [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-개발-10년차인데-코드-좀-봐주세요/)
+- [[B급 프로그래머] What's the single most valuable lesson you've learned in your professional life?](https://jhrogue.blogspot.com/2012/07/b-whats-single-most-valuable-lesson.html?fbclid=IwAR2OQaxua5NSEEkA1V0t9lU8lXmJ5CcgMCyzlA13px0qCEctB3UPRuRor3U&m=1)
 
 
 
