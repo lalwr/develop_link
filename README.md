@@ -146,6 +146,7 @@
 - [버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3](https://brunch.co.kr/@mobiinside/1482)
 - [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
 - [대상 서버의 포트가 열려 있는지 확인하는 3가지 방법](https://meetup.toast.com/posts/204)
+- [HTTP/3: 과거, 현재 그리고 미래](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/?fbclid=IwAR0bzlEV-nsKbEwTY3HHBrJHuA39tNtHqC_UaYOiwjbapZhRl4cMmjmT4RA)
 
 
 
