@@ -99,6 +99,7 @@
 - [테스트 코드 작성에 대한 나름의 고찰](https://github.com/cheese10yun/blog-sample/blob/master/test-code/README.md)
 - [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 – 2편](https://www.popit.kr/spring-webflux%ec%99%80-kotlin%ec%9c%bc%eb%a1%9c-%eb%a7%8c%eb%93%9c%eb%8a%94-todo-%ec%84%9c%eb%b9%84%ec%8a%a4-2%ed%8e%b8/)
 - [Custom Validation](https://github.com/cheese10yun/blog-sample/blob/master/custom-validation/docs/class-validation.md)
+- [[우아한테크세미나] 우아한 스프링 배치 후기](https://normal93.tistory.com/34)
 
 
 
