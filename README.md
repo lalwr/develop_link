@@ -244,6 +244,7 @@
 - [크롬개발도구 사용법(영어)](https://youtu.be/oYvtsHu6GmY)
 - [2019년 브라우저의 상태](https://medium.com/@euncho/2019%EB%85%84-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EC%83%81%ED%83%9C-e73ab86bcbd0)
 - [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
+- [Things you may not know about Chrome DevTools](https://dev.to/lpellis/things-you-may-not-know-about-chrome-devtools-53k6?fbclid=IwAR11ydazbHyJqxViUjqXaAiRoBHR5bB3A7fwvnvlNPxoLaOJ0WnQjZJ5FpI)
 
 
 
