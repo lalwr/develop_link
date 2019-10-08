@@ -67,6 +67,8 @@
 - [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 
+
+
 ## Spring
 
 - [Spring 내가 생각하는 캡슐화 part 1](https://www.popit.kr/20184-2/)
@@ -148,6 +150,7 @@
 - [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
 - [대상 서버의 포트가 열려 있는지 확인하는 3가지 방법](https://meetup.toast.com/posts/204)
 - [HTTP/3: 과거, 현재 그리고 미래](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/?fbclid=IwAR0bzlEV-nsKbEwTY3HHBrJHuA39tNtHqC_UaYOiwjbapZhRl4cMmjmT4RA)
+- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 
 
 
