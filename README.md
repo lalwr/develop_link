@@ -66,6 +66,7 @@
 - [java.lang.Object.hashCode 메소드](https://johngrib.github.io/wiki/Object-hashCode/)
 - [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
+- [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/)
 
 
 
