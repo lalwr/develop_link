@@ -67,6 +67,7 @@
 - [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 - [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/)
+- [Java URLClassLoader로 알아보는 클래스로딩](https://homoefficio.github.io/2018/10/14/Java-URLClassLoader%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C%EB%94%A9/)
 
 
 
