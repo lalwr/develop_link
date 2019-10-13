@@ -104,6 +104,7 @@
 - [Custom Validation](https://github.com/cheese10yun/blog-sample/blob/master/custom-validation/docs/class-validation.md)
 - [[우아한테크세미나] 우아한 스프링 배치 후기](https://normal93.tistory.com/34)
 - [Quartz 스케줄러 적용 아키텍처 개선 - 1](https://homoefficio.github.io/2019/09/28/Quartz-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC-%EC%A0%81%EC%9A%A9-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%EC%84%A0-1/)
+- 
 
 
 
@@ -217,6 +218,7 @@
 - [고급 Bash 스크립팅 가이드](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
 - [리눅스 관리자 네트워크 트러블슈팅, 디버깅 명령어](https://www.tecmint.com/linux-networking-commands/?fbclid=IwAR2M38i44cdLGkOtZuu43gpZSwsVA3KmXL4MU952c6WpFmvIUp59fbfhxJE#host)
 - [리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 1편](https://meetup.toast.com/posts/53)
+- [vim 사용하기](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim#AEN18)
 
 
 
