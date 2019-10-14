@@ -341,6 +341,7 @@
 - [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-개발-10년차인데-코드-좀-봐주세요/)
 - [[B급 프로그래머] What's the single most valuable lesson you've learned in your professional life?](https://jhrogue.blogspot.com/2012/07/b-whats-single-most-valuable-lesson.html?fbclid=IwAR2OQaxua5NSEEkA1V0t9lU8lXmJ5CcgMCyzlA13px0qCEctB3UPRuRor3U&m=1)
 - [내게 실용적이었던 프로그래밍 공부 방법들](https://ppss.kr/archives/204117?fbclid=IwAR3yrEYeiYPDKRd6PHdlVDC2S7gfcxg39ycPmfTDNg6KZrV4Gkl_V7L4hRs)
+- [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/)
 
 
 
