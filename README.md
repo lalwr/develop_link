@@ -344,6 +344,7 @@
 - [[B급 프로그래머] What's the single most valuable lesson you've learned in your professional life?](https://jhrogue.blogspot.com/2012/07/b-whats-single-most-valuable-lesson.html?fbclid=IwAR2OQaxua5NSEEkA1V0t9lU8lXmJ5CcgMCyzlA13px0qCEctB3UPRuRor3U&m=1)
 - [내게 실용적이었던 프로그래밍 공부 방법들](https://ppss.kr/archives/204117?fbclid=IwAR3yrEYeiYPDKRd6PHdlVDC2S7gfcxg39ycPmfTDNg6KZrV4Gkl_V7L4hRs)
 - [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/)
+- [평범한 개발자 그 이상이 되기 위한 야생 학습 비결](https://www.popit.kr/%ed%8f%89%eb%b2%94%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ea%b7%b8-%ec%9d%b4%ec%83%81%ec%9d%b4-%eb%90%98%ea%b8%b0-%ec%9c%84%ed%95%9c-%ec%95%bc%ec%83%9d-%ed%95%99%ec%8a%b5-%eb%b9%84%ea%b2%b0/?fbclid=IwAR3k5XhOYE23VqdUyqXnWpNge772UzOV0opjJesagJUy7ijwfZSxbamLUwY)
 
 
 
