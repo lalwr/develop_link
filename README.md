@@ -120,6 +120,7 @@
 
 - [HTTP 쿠키와 톰캣 버전별 이슈](https://meetup.toast.com/posts/172)
 - [WAS의 동작과 WEB, Servlet, JSP](https://www.kdata.or.kr/info/info_04_view.html?field=&keyword=&type=techreport&page=18&dbnum=183776&mode=detail&type=techreport)
+- [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952?fbclid=IwAR2ejc7jBzwiEhl32-BrVQ8suGXiSnymbY2rtSJCzPcdcKG2Z0LH6nPkQds)
 
 
 
