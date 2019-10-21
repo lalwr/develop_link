@@ -131,6 +131,7 @@
 - [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 - [실수할 수 있는 자바스크립트의 타입과 값들](https://blog.scienceoflove.co.kr/js-type-value/)
 - [Babel, Mocha, Karma and Webpack with coverage in order](https://lqez.github.io/blog/babel-mocha-karma-webpack-coverage.html)
+- [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts/blob/master/README.md)
 
 
 
