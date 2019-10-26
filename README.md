@@ -349,6 +349,7 @@
 - [평범한 개발자 그 이상이 되기 위한 야생 학습 비결](https://www.popit.kr/%ed%8f%89%eb%b2%94%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ea%b7%b8-%ec%9d%b4%ec%83%81%ec%9d%b4-%eb%90%98%ea%b8%b0-%ec%9c%84%ed%95%9c-%ec%95%bc%ec%83%9d-%ed%95%99%ec%8a%b5-%eb%b9%84%ea%b2%b0/?fbclid=IwAR3k5XhOYE23VqdUyqXnWpNge772UzOV0opjJesagJUy7ijwfZSxbamLUwY)
 - [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
 - [디알못 탈출하기 1탄 - 시각적 계층구조 (Visual Hierarchy)](https://www.notion.so/1-Visual-Hierarchy-2fe91711399f424cb89c74ace5b103ff)
+- [코드가 아니라 밸류를 만든다 : 유니콘 우아한형제들의 조직문화](https://www.folin.co/storybook/504/chapter/509?fbclid=IwAR1nt3u5ZZHL-0HYNUliG026BSmFWUjhfqNGkXbfmT5iWm2W44ufSgdXMyI&ct=t%28wen-new+Click+%E2%9D%A4_COPY_01%29)
 
 
 
