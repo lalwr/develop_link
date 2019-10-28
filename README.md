@@ -352,6 +352,7 @@
 - [디알못 탈출하기 1탄 - 시각적 계층구조 (Visual Hierarchy)](https://www.notion.so/1-Visual-Hierarchy-2fe91711399f424cb89c74ace5b103ff)
 - [코드가 아니라 밸류를 만든다 : 유니콘 우아한형제들의 조직문화](https://www.folin.co/storybook/504/chapter/509?fbclid=IwAR1nt3u5ZZHL-0HYNUliG026BSmFWUjhfqNGkXbfmT5iWm2W44ufSgdXMyI&ct=t%28wen-new+Click+%E2%9D%A4_COPY_01%29)
 - [입사 후, 벌써 1년](http://woowabros.github.io/experience/2019/05/30/settle-history.html)
+- [날짜와 시간 표시에 대한 디테일](https://brunch.co.kr/@anitooni/3)
 
 
 
