@@ -35,6 +35,7 @@
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 - [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
 - [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
+- [유용한 Github 관련 크롬 익스텐션 소개](https://taeguk2.blogspot.com/2019/10/github_20.html?m=1)
 
 
 
