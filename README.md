@@ -355,6 +355,7 @@
 - [코드가 아니라 밸류를 만든다 : 유니콘 우아한형제들의 조직문화](https://www.folin.co/storybook/504/chapter/509?fbclid=IwAR1nt3u5ZZHL-0HYNUliG026BSmFWUjhfqNGkXbfmT5iWm2W44ufSgdXMyI&ct=t%28wen-new+Click+%E2%9D%A4_COPY_01%29)
 - [입사 후, 벌써 1년](http://woowabros.github.io/experience/2019/05/30/settle-history.html)
 - [날짜와 시간 표시에 대한 디테일](https://brunch.co.kr/@anitooni/3)
+- [7 Tips to boost your productivity as a web developer](https://dev.to/mustapha/7-tips-to-boost-your-productivity-as-a-web-developer-4jh7)
 
 
 
