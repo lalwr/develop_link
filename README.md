@@ -105,7 +105,7 @@
 - [Custom Validation](https://github.com/cheese10yun/blog-sample/blob/master/custom-validation/docs/class-validation.md)
 - [[우아한테크세미나] 우아한 스프링 배치 후기](https://normal93.tistory.com/34)
 - [Quartz 스케줄러 적용 아키텍처 개선 - 1](https://homoefficio.github.io/2019/09/28/Quartz-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC-%EC%A0%81%EC%9A%A9-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%EC%84%A0-1/)
-- 
+- [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
 
 
 
