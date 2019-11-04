@@ -356,6 +356,7 @@
 - [입사 후, 벌써 1년](http://woowabros.github.io/experience/2019/05/30/settle-history.html)
 - [날짜와 시간 표시에 대한 디테일](https://brunch.co.kr/@anitooni/3)
 - [7 Tips to boost your productivity as a web developer](https://dev.to/mustapha/7-tips-to-boost-your-productivity-as-a-web-developer-4jh7)
+- [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/?fbclid=IwAR0-Xtw2AvIaEc82EeZoSPtbjojvxvvWv5ud3_TYmUytq2Xp1R8KehcD85o)
 
 
 
