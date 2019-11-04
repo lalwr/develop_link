@@ -158,6 +158,7 @@
 - [대상 서버의 포트가 열려 있는지 확인하는 3가지 방법](https://meetup.toast.com/posts/204)
 - [HTTP/3: 과거, 현재 그리고 미래](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/?fbclid=IwAR0bzlEV-nsKbEwTY3HHBrJHuA39tNtHqC_UaYOiwjbapZhRl4cMmjmT4RA)
 - [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
+- [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/?fbclid=IwAR1UHtQzFRxnYgfRQ5-_fIu5xY_ZkG5C6Ril09gz36_C9j5D8zuUFczIf1I)
 
 
 
