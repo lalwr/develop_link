@@ -358,6 +358,7 @@
 - [날짜와 시간 표시에 대한 디테일](https://brunch.co.kr/@anitooni/3)
 - [7 Tips to boost your productivity as a web developer](https://dev.to/mustapha/7-tips-to-boost-your-productivity-as-a-web-developer-4jh7)
 - [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/?fbclid=IwAR0-Xtw2AvIaEc82EeZoSPtbjojvxvvWv5ud3_TYmUytq2Xp1R8KehcD85o)
+- [코드 가독성에 대해 – 1. 도입과 원칙](https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
 
 
 
