@@ -69,6 +69,7 @@
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 - [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/)
 - [Java URLClassLoader로 알아보는 클래스로딩](https://homoefficio.github.io/2018/10/14/Java-URLClassLoader%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C%EB%94%A9/)
+- [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기]( [https://www.popit.kr/msa%ec%97%90%ec%84%9c-%eb%8f%99%ec%8b%9c%ec%97%90-%ec%97%ac%eb%9f%ac-api-%ed%98%b8%ec%b6%9c%eb%a1%9c-%ec%9d%91%eb%8b%b5-%ec%8b%9c%ea%b0%84-%ec%a4%84%ec%9d%b4%ea%b8%b0/](https://www.popit.kr/msa에서-동시에-여러-api-호출로-응답-시간-줄이기/) )
 
 
 
