@@ -361,6 +361,7 @@
 - [7 Tips to boost your productivity as a web developer](https://dev.to/mustapha/7-tips-to-boost-your-productivity-as-a-web-developer-4jh7)
 - [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/?fbclid=IwAR0-Xtw2AvIaEc82EeZoSPtbjojvxvvWv5ud3_TYmUytq2Xp1R8KehcD85o)
 - [코드 가독성에 대해 – 1. 도입과 원칙](https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
+- [마이크로 서비스를 사용하지 않는 경우](https://medium.com/dtevangelist/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%BD%EC%9A%B0-cfaae59e4fcc)
 
 
 
