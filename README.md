@@ -72,6 +72,7 @@
 - [Java URLClassLoader로 알아보는 클래스로딩](https://homoefficio.github.io/2018/10/14/Java-URLClassLoader%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C%EB%94%A9/)
 - [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기]( [https://www.popit.kr/msa%ec%97%90%ec%84%9c-%eb%8f%99%ec%8b%9c%ec%97%90-%ec%97%ac%eb%9f%ac-api-%ed%98%b8%ec%b6%9c%eb%a1%9c-%ec%9d%91%eb%8b%b5-%ec%8b%9c%ea%b0%84-%ec%a4%84%ec%9d%b4%ea%b8%b0/](https://www.popit.kr/msa에서-동시에-여러-api-호출로-응답-시간-줄이기/) )
 - [널 오브젝트 패턴 (Null Object Pattern)](https://johngrib.github.io/wiki/null-object-pattern/)
+- [더 자바: 코드를 테스트하는 다양한 방법](https://docs.google.com/presentation/d/1HaiVt-TNqA2wTMzjfGfzkBVgOGJIW7IH04CHNvNwbPs/mobilepresent?slide=id.p)
 
 
 
