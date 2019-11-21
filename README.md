@@ -113,6 +113,7 @@
 - [스프링부트에서 DbUnit 을 이용하여 DB 테스트 해보기](http://woowabros.github.io/experience/2019/11/06/db-unit.html)
 - [스프링5 웹플럭스 정리 및 샘플 코드](https://brunch.co.kr/@springboot/96)
 - [Java null survival guide](https://www.slideshare.net/gyumee/java-null-survival-guide)
+- [Spring Transaction에 대한 노트](https://narusas.github.io/2019/07/17/Spring-Transaction-Note.html)
 
 
 
