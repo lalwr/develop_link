@@ -143,6 +143,7 @@
 - [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts/blob/master/README.md)
 - [누구나 한 번쯤은 띄워본 JavaScript 에러 TOP 10](https://blog.meeta.io/m/10)
 - [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
+- [Custom Promise 구현으로 프로미스 파혜치기](https://p-iknow.netlify.com/js/custom-promise)
 
 
 
