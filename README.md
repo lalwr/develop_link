@@ -170,6 +170,7 @@
 - [HTTP/3: 과거, 현재 그리고 미래](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/?fbclid=IwAR0bzlEV-nsKbEwTY3HHBrJHuA39tNtHqC_UaYOiwjbapZhRl4cMmjmT4RA)
 - [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 - [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/?fbclid=IwAR1UHtQzFRxnYgfRQ5-_fIu5xY_ZkG5C6Ril09gz36_C9j5D8zuUFczIf1I)
+- [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 
 
 
