@@ -146,6 +146,7 @@
 - [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
 - [Custom Promise 구현으로 프로미스 파혜치기](https://p-iknow.netlify.com/js/custom-promise)
 - [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
+- [어쨌든 이벤트 루프는 무엇입니까? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
 
 
 
