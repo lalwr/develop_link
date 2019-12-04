@@ -296,6 +296,7 @@
 
 - [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
 - [Homebrew와 Shell Script를 사용하여 맥(Mac) 개발 환경 구축 자동화하기](https://dev-yakuza.github.io/ko/environment/configure-development-environment-on-mac-with-homebrew-and-shell-script/)
+- [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/)
 
 
 
