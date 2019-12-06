@@ -131,6 +131,7 @@
 - [HTTP 쿠키와 톰캣 버전별 이슈](https://meetup.toast.com/posts/172)
 - [WAS의 동작과 WEB, Servlet, JSP](https://www.kdata.or.kr/info/info_04_view.html?field=&keyword=&type=techreport&page=18&dbnum=183776&mode=detail&type=techreport)
 - [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952?fbclid=IwAR2ejc7jBzwiEhl32-BrVQ8suGXiSnymbY2rtSJCzPcdcKG2Z0LH6nPkQds)
+- [브라우저 싸움에 등 터지는 개발자들을 위한 HTTP쿠키와 톰캣 쿠키 프로세서 이야기](https://meetup.toast.com/posts/209)
 
 
 
