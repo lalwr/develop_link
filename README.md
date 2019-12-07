@@ -191,6 +191,7 @@
 - [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
 - [[번역] 쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 - [도커 입문 hands-on](https://github.com/voyagerwoo/docker-hands-on)
+- [Docker기반 Redis 구축하기](https://jaehun2841.github.io/2018/12/01/2018-12-01-docker-4/#docker-compose-%EC%9D%B4%EB%9E%80)
 
 
 
