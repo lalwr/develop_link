@@ -234,6 +234,8 @@
 - [SpringBoot기반 Redis Cache 활용법](https://medium.com/@yongkyu.jang/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69#link=gaerae.com)
 - [레디스 클러스터, Read from Slave](https://brunch.co.kr/@springboot/218)
 
+
+
 ## OS
 
 - [Vim에 매료되다. (Feat.Happy Hacking)](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
@@ -383,6 +385,7 @@
 - [애자일과 소프트웨어 장인정신](https://brunch.co.kr/@cleancode/39)
 - [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
 - [불안한 마음 정면으로 마주보기](https://evan-moon.github.io/2019/11/16/the-way-to-control-anxiety/)
+- [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
 
 
 
