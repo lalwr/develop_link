@@ -386,6 +386,7 @@
 - [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
 - [불안한 마음 정면으로 마주보기](https://evan-moon.github.io/2019/11/16/the-way-to-control-anxiety/)
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
+- [Code Review에 대해](https://www.slideshare.net/codetemplate/2019-11code-review)
 
 
 
