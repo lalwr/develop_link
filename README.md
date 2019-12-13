@@ -395,6 +395,7 @@
 - [불안한 마음 정면으로 마주보기](https://evan-moon.github.io/2019/11/16/the-way-to-control-anxiety/)
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
 - [Code Review에 대해](https://www.slideshare.net/codetemplate/2019-11code-review)
+- [public-apis](https://github.com/public-apis/public-apis)
 
 
 
