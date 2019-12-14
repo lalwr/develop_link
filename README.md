@@ -200,6 +200,7 @@
 - [[번역] 쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 - [도커 입문 hands-on](https://github.com/voyagerwoo/docker-hands-on)
 - [Docker기반 Redis 구축하기](https://jaehun2841.github.io/2018/12/01/2018-12-01-docker-4/#docker-compose-%EC%9D%B4%EB%9E%80)
+- [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container?fbclid=IwAR35TVG91V5lR7p1KUI0JOzizOhsmCH0uhVuCwljQ90b0PMnJCJ5dP3v23M)
 
 
 
