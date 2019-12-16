@@ -397,6 +397,7 @@
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
 - [Code Review에 대해](https://www.slideshare.net/codetemplate/2019-11code-review)
 - [public-apis](https://github.com/public-apis/public-apis)
+- [나다운 글쓰기 수련법](http://blog.weirdx.io/post/61637)
 
 
 
