@@ -399,6 +399,7 @@
 - [Code Review에 대해](https://www.slideshare.net/codetemplate/2019-11code-review)
 - [public-apis](https://github.com/public-apis/public-apis)
 - [나다운 글쓰기 수련법](http://blog.weirdx.io/post/61637)
+- [절망 드리븐 성장: 함께 일하고 싶은 개발자가 되기까지](https://speakerdeck.com/soyoung210/jeolmang-deuribeun-seongjang-hamgge-ilhago-sipeun-gaebaljaga-doegiggaji)
 
 
 
