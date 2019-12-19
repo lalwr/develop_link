@@ -74,6 +74,7 @@
 - [널 오브젝트 패턴 (Null Object Pattern)](https://johngrib.github.io/wiki/null-object-pattern/)
 - [더 자바: 코드를 테스트하는 다양한 방법](https://docs.google.com/presentation/d/1HaiVt-TNqA2wTMzjfGfzkBVgOGJIW7IH04CHNvNwbPs/mobilepresent?slide=id.p)
 - [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
+- [“Fast Campus 올인원 패키지: Java 웹 개발 마스터” 실전 프로젝트](https://github.com/ahastudio/fastcampus-eatgo)
 
 
 
