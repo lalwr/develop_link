@@ -203,6 +203,7 @@
 - [도커 입문 hands-on](https://github.com/voyagerwoo/docker-hands-on)
 - [Docker기반 Redis 구축하기](https://jaehun2841.github.io/2018/12/01/2018-12-01-docker-4/#docker-compose-%EC%9D%B4%EB%9E%80)
 - [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container?fbclid=IwAR35TVG91V5lR7p1KUI0JOzizOhsmCH0uhVuCwljQ90b0PMnJCJ5dP3v23M)
+- [만들면서 이해하는 도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
 
 
 
