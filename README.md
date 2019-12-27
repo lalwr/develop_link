@@ -406,6 +406,7 @@
 - [나다운 글쓰기 수련법](http://blog.weirdx.io/post/61637)
 - [절망 드리븐 성장: 함께 일하고 싶은 개발자가 되기까지](https://speakerdeck.com/soyoung210/jeolmang-deuribeun-seongjang-hamgge-ilhago-sipeun-gaebaljaga-doegiggaji)
 - [글로벌 LINE DEV의 기술 공유 문화](https://engineering.linecorp.com/ko/blog/global-line-dev-tech-sharing-culture/)
+- [훌륭한 프로그래머가 되고 싶다면 만들어야할 앱 8 선](https://tagilog.tistory.com/579)
 
 
 
