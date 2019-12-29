@@ -407,6 +407,7 @@
 - [절망 드리븐 성장: 함께 일하고 싶은 개발자가 되기까지](https://speakerdeck.com/soyoung210/jeolmang-deuribeun-seongjang-hamgge-ilhago-sipeun-gaebaljaga-doegiggaji)
 - [글로벌 LINE DEV의 기술 공유 문화](https://engineering.linecorp.com/ko/blog/global-line-dev-tech-sharing-culture/)
 - [훌륭한 프로그래머가 되고 싶다면 만들어야할 앱 8 선](https://tagilog.tistory.com/579)
+- [나는 어떻게 공부했는가?](https://medium.com/@euncho/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
 
 
 
