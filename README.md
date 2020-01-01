@@ -10,6 +10,7 @@
 - [Amazon Aurora MySQL Database Administrator’s Handbook (요약 및 의역)](http://blog.hwang.gg/20190702/)
 - [CloudWatch에 대하여](https://www.theteams.kr/teams/1092/post/69516)
 - [[AWS] 가장쉽게 VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
+- [AWS로 사용자 천만 명 서비스 만들기 (윤석찬)](https://www.slideshare.net/awskorea/ct-2015-your-10million-users-on-aws-channy)
 
 
 
