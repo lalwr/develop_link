@@ -166,8 +166,8 @@
 
 ## CSS
 
-- [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기 [번역]](https://brunch.co.kr/@skykamja24/267)
 - [잘 알려지지 않은 유용한 CSS 속성들](https://ahnheejong.name/articles/less-famous-css-properties/)
+- [CSS Unit (CSS 7가지 단위)](https://webclub.tistory.com/356)
 
 
 
