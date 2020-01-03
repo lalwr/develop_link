@@ -410,6 +410,7 @@
 - [글로벌 LINE DEV의 기술 공유 문화](https://engineering.linecorp.com/ko/blog/global-line-dev-tech-sharing-culture/)
 - [훌륭한 프로그래머가 되고 싶다면 만들어야할 앱 8 선](https://tagilog.tistory.com/579)
 - [나는 어떻게 공부했는가?](https://medium.com/@euncho/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
+- [웹 개발자의 지옥, 이메일 폼 개발하기](https://vallista.kr/2019/12/27/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/index.html)
 
 
 
