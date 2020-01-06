@@ -443,6 +443,7 @@
 - [이직 회고록](https://m.blog.naver.com/PostView.nhn?blogId=gngh0101&logNo=221295043724&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
 - [나의 대기업 취업기_1](https://brunch.co.kr/@jinsekil/31)
 - [문과생의 카카오 개발자 이직기 - 1 (서류 & 코딩테스트)](https://zorba91.tistory.com/m/270?category=876991)
+- [길고 긴 카카오(Kakao)로 이직 이야기](https://m.blog.naver.com/PostView.nhn?blogId=gngh0101&logNo=221295353117&proxyReferer=https%3A%2F%2Fzorba91.tistory.com%2Fm%2F270%3Fcategory%3D876991)
 - [회사에 궁금한 점은 없나요?](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [아틀라시안 취업후기](https://tacogrammer.com/%ec%95%84%ed%8b%80%eb%9d%bc%ec%8b%9c%ec%95%88-%ec%b7%a8%ec%97%85%ed%9b%84%ea%b8%b0/)
 - [ 이력서 - 1분의 싸움 ](https://blog.naver.com/PostView.nhn?blogId=wodory&logNo=221676841351&proxyReferer=https%3A%2F%2Fblog.naver.com%2Fwodory%2F221676841351&fbclid=IwAR36Gd03jvxj3A7piFVlYot20AjMBWasoTo8vQHpBsnIexlGX5udRd1t5lY)
