@@ -417,6 +417,7 @@
 - [나는 어떻게 공부했는가?](https://medium.com/@euncho/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
 - [웹 개발자의 지옥, 이메일 폼 개발하기](https://vallista.kr/2019/12/27/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/index.html)
 - [IT 기업 기술 블로그 모음](https://devmjun.github.io/archive/iT_Tech_Blog)
+- [개발을잘하고싶어요-네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
 
 
 
