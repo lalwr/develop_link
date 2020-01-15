@@ -501,6 +501,7 @@
 - [웹 개발자의 지옥, 이메일 폼 개발하기](https://vallista.kr/2019/12/27/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/index.html)
 - [IT 기업 기술 블로그 모음](https://devmjun.github.io/archive/iT_Tech_Blog)
 - [개발을잘하고싶어요-네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
+- [아이패드로 코딩하기](https://boxnwhis.kr/2020/01/11/coding_with_ipad.html)
 
 
 
