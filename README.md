@@ -503,6 +503,7 @@
 - [IT 기업 기술 블로그 모음](https://devmjun.github.io/archive/iT_Tech_Blog)
 - [개발을잘하고싶어요-네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
 - [아이패드로 코딩하기](https://boxnwhis.kr/2020/01/11/coding_with_ipad.html)
+- [지속 가능한 소프트웨어를 위한 코딩 방법 - 첫 번째](https://meetup.toast.com/posts/214)
 
 
 
