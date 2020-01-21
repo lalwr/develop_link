@@ -243,6 +243,7 @@
 - [LINE Manga 데이터베이스 샤딩 – 서버 엔지니어 편](https://engineering.linecorp.com/ko/blog/line-manga-server-side/)
 - [Mysql Explain](https://cheese10yun.github.io/mysql-explian/)
 - [메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html)
+- [[2019] 200만 동접 게임을 위한 MySQL 샤딩](https://www.youtube.com/watch?feature=share&v=8Eb_n7JA1yA&app=desktop)
 
 
 
