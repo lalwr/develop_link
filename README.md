@@ -277,6 +277,7 @@
 ### Vue
 
 - [Vue.js 정복 캠프 수업 자료](https://joshua1988.github.io/vue-camp/textbook.html)
+- [30 DAYS OF VUE](https://www.newline.co/30-days-of-vue/?ref=madewithvuejs.com)
 
 
 
