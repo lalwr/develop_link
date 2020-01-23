@@ -308,6 +308,7 @@
 - [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
 - [<번역>자바스크립트의 메모리 모델](https://junwoo45.github.io/2019-11-04-memory_model/)
 - [자바스크립트 엔진에 대한 오개념과, Inline cache](https://velog.io/@noyo0123/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-VSCODE-%EA%B0%9C%EB%B0%9C%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-lfk2a3yuo5)
+- [자바스크립트 동작 원리 시각화 [영문]](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 
 
 
