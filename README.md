@@ -174,6 +174,8 @@
 - [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952?fbclid=IwAR2ejc7jBzwiEhl32-BrVQ8suGXiSnymbY2rtSJCzPcdcKG2Z0LH6nPkQds)
 - [브라우저 싸움에 등 터지는 개발자들을 위한 HTTP쿠키와 톰캣 쿠키 프로세서 이야기](https://meetup.toast.com/posts/209)
 
+
+
 ### NETWORK
 
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667?fbclid=IwAR0q2_sNCbtneWRTOUTFpGOaAXFT15PGKSQDD-90fovzEbCHYQZcdgeq55s)
@@ -218,6 +220,7 @@
 - [[번역] 웹 캐싱의 숨겨진 요소들](https://mingrammer.com/translation-the-hidden-components-of-web-caching/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 - [Web Development Tutorial](https://poiemaweb.com/)
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
+- [한글 인코딩의 이해 1편: 한글 인코딩의 역사와 유니코드](https://d2.naver.com/helloworld/19187)
 
 
 
