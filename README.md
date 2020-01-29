@@ -58,6 +58,7 @@
 - [알고리즘 공부, 어떻게 해야하나요?](https://baactree.tistory.com/52)
 - [시리즈:수학인듯 과학아닌 공학같은 컴퓨터과학/알고리즘 기초](https://librewiki.net/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%88%98%ED%95%99%EC%9D%B8%EB%93%AF_%EA%B3%BC%ED%95%99%EC%95%84%EB%8B%8C_%EA%B3%B5%ED%95%99%EA%B0%99%EC%9D%80_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B8%B0%EC%B4%88)
 - [알고리즘이 필요한 '진짜' 이유에 대해서](https://brunch.co.kr/@chickenmoim/4?fbclid=IwAR1YxV_5bNVCX5Fs5h10BeSU-wTl1buyskIXimb3w42yjsWx_zoVRrWG07w)
+- [알고리즘 학습에 대한 조언](https://edykim.com/ko/post/advice-on-learning-algorithms/)
 
 
 
