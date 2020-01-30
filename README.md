@@ -387,6 +387,7 @@
 - [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
 - [유용한 Github 관련 크롬 익스텐션 소개](https://taeguk2.blogspot.com/2019/10/github_20.html?m=1)
 - [Git 커밋 메시지 작성법](https://item4.blog/2016-10-31/How-to-Write-a-Git-Commit-Message/)
+- [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html?fbclid=IwAR3STGDUl7xOEsJ-9QYPDmJOCSVrFPXwbeEgCLvFnfTdXZaYjkbQLiqlnrc)
 
 
 
