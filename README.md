@@ -24,6 +24,7 @@
 
 - [인텔리J 활용 꿀팁 42가지 정리](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
 - [Intellij 테스트 자동 실행하기](https://nesoy.github.io/articles/2019-07/Intellij-Infinitest)
+- [IntelliJ IDEA best plugins](https://www.vojtechruzicka.com/idea-best-plugins/)
 - [[서버] postman 활용 1~3편](https://blog.naver.com/pjt3591oo/221669110777)
 
 
