@@ -10,6 +10,7 @@
 
 - [자주 사용하는 정규식 패턴](https://uznam8x.tistory.com/m/entry/%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8C%A8%ED%84%B4?fbclid=IwAR3aNYT-_sgHbgpiZ4BVPZgnhjVOPRASq5mFKXMBKlyzilx_BzClYbbn2zs)
 - [IT회사 개발 정보 모음 페이지](https://page.co.kr/@dev/)
+- [Java 프로그래머가 경력을 가속화하는 방법을 배울 수있는 10 가지 기술](https://dev.to/javinpaul/10-skills-java-programmer-can-learn-to-accelerate-their-career-3nlh)
 
 
 
