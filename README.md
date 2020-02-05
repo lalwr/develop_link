@@ -217,6 +217,7 @@
 - [Docker기반 Redis 구축하기](https://jaehun2841.github.io/2018/12/01/2018-12-01-docker-4/#docker-compose-%EC%9D%B4%EB%9E%80)
 - [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container?fbclid=IwAR35TVG91V5lR7p1KUI0JOzizOhsmCH0uhVuCwljQ90b0PMnJCJ5dP3v23M)
 - [만들면서 이해하는 도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
+- [[번역] 쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 
 
 
@@ -528,4 +529,4 @@
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md)
 - [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [국내 개발자 블로그 모음](https://github.com/sarojaba/awesome-devblog)
-- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
+- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)do
