@@ -159,6 +159,7 @@
 - [Java null survival guide](https://www.slideshare.net/gyumee/java-null-survival-guide)
 - [Spring Transaction에 대한 노트](https://narusas.github.io/2019/07/17/Spring-Transaction-Note.html)
 - [Spring Guide](https://www.slideshare.net/ssuser565d51/spring-guide-202753526)
+- [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
 
 
 
