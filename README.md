@@ -117,6 +117,7 @@
 - [“Fast Campus 올인원 패키지: Java 웹 개발 마스터” 실전 프로젝트](https://github.com/ahastudio/fastcampus-eatgo)
 - [모던 자바 (자바 8) - 못다한 이야기](https://www.youtube.com/playlist?list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27)
 - [Back to the Essence - Java 컴파일에서 실행까지 - (1)](https://homoefficio.github.io/2019/01/31/Back-to-the-Essence-Java-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80-1/)
+- [Builder 기반으로 객체를 안전하게 생성하는 방법](https://www.popit.kr/builder-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 
 
 
