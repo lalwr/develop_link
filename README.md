@@ -104,7 +104,6 @@
 - [우아한 객체지향](https://www.slideshare.net/baejjae93/ss-150432699)
 - [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 - [[Java] Integer.valueOf(127) == Integer.valueOf(127) 는 참일까요?](https://meetup.toast.com/posts/185)
-- [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
 - [java.lang.Object.hashCode 메소드](https://johngrib.github.io/wiki/Object-hashCode/)
 - [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
@@ -397,6 +396,7 @@
 - [Git 커밋 메시지 작성법](https://item4.blog/2016-10-31/How-to-Write-a-Git-Commit-Message/)
 - [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html?fbclid=IwAR3STGDUl7xOEsJ-9QYPDmJOCSVrFPXwbeEgCLvFnfTdXZaYjkbQLiqlnrc)
 - [[NDC16] Effective Git](https://www.slideshare.net/mobile/kexplo/ndc2016-effective-git)
+- [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
 
 
 
