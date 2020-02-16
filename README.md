@@ -27,6 +27,7 @@
 - [Intellij 테스트 자동 실행하기](https://nesoy.github.io/articles/2019-07/Intellij-Infinitest)
 - [IntelliJ IDEA best plugins](https://www.vojtechruzicka.com/idea-best-plugins/)
 - [[서버] postman 활용 1~3편](https://blog.naver.com/pjt3591oo/221669110777)
+- [IntelliJ IDEA와 Git Bash 연동하기](https://medium.com/@violetboralee/intellij-idea%EC%99%80-git-bash-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-63e8216aa7de)
 
 
 
