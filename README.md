@@ -212,6 +212,7 @@
 - [패킷의 흐름과 오류를 제어하는 TCP](https://evan-moon.github.io/2019/11/22/tcp-flow-control-error-control/)
 - [QUIC과 HTTP/3 - 1. UDP기반 전송 프로토콜의 대두](https://www.saturnsoft.net/network/2019/03/21/quic-http3-1/)
 - [쿠키, 세션, 캐시가 뭔가요?](https://www.youtube.com/watch?feature=youtu.be&v=OpoVuwxGRDI&app=desktop)
+- [HTTPS 전환 과정에서 read timeout 오류 해결 과정](https://d2.naver.com/helloworld/1469717)
 
 
 
