@@ -28,6 +28,7 @@
 - [IntelliJ IDEA best plugins](https://www.vojtechruzicka.com/idea-best-plugins/)
 - [[서버] postman 활용 1~3편](https://blog.naver.com/pjt3591oo/221669110777)
 - [IntelliJ IDEA와 Git Bash 연동하기](https://medium.com/@violetboralee/intellij-idea%EC%99%80-git-bash-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-63e8216aa7de)
+- [가장 많이 사용되는 IntelliJ IDEA 단축키 15개](https://blog.naver.com/jetbrains_korea/221849871165)
 
 
 
