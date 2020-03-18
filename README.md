@@ -370,17 +370,18 @@
 - [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
 - [[개발자 인터뷰 시 면접관에게 할 만한 질문 모음](https://gomcine.tistory.com/entry/웹-개발자로-입사하기-전에-면접관에게-해야할-질문)](https://gomcine.tistory.com/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%9E%85%EC%82%AC%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%A9%B4%EC%A0%91%EA%B4%80%EC%97%90%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A7%88%EB%AC%B8)
 - [[면접] 면접관이 거르지 않는 개발자 이력서](http://blog.hwang.gg/20190612/?fbclid=IwAR2diLI7kdkbZOd529lEIKsF1hTItmkdOknfXEUi9yip-8OTd6jc9eYy-qs)
+- [[번역] 개발자를 위한 면접 지침](https://blog.rhostem.com/posts/2019-01-05-developer-guide-for-interview)
+- [회사에 궁금한 점은 없나요?](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [기술 면접 인터뷰 자료](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 
 
 ### 취업관련
 
-- [기술 면접 인터뷰 자료](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [이직 회고록](https://m.blog.naver.com/PostView.nhn?blogId=gngh0101&logNo=221295043724&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
 - [나의 대기업 취업기_1](https://brunch.co.kr/@jinsekil/31)
 - [문과생의 카카오 개발자 이직기 - 1 (서류 & 코딩테스트)](https://zorba91.tistory.com/m/270?category=876991)
 - [길고 긴 카카오(Kakao)로 이직 이야기](https://m.blog.naver.com/PostView.nhn?blogId=gngh0101&logNo=221295353117&proxyReferer=https%3A%2F%2Fzorba91.tistory.com%2Fm%2F270%3Fcategory%3D876991)
-- [회사에 궁금한 점은 없나요?](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [아틀라시안 취업후기](https://tacogrammer.com/%ec%95%84%ed%8b%80%eb%9d%bc%ec%8b%9c%ec%95%88-%ec%b7%a8%ec%97%85%ed%9b%84%ea%b8%b0/)
 - [ 이력서 - 1분의 싸움 ](https://blog.naver.com/PostView.nhn?blogId=wodory&logNo=221676841351&proxyReferer=https%3A%2F%2Fblog.naver.com%2Fwodory%2F221676841351&fbclid=IwAR36Gd03jvxj3A7piFVlYot20AjMBWasoTo8vQHpBsnIexlGX5udRd1t5lY)
 - [입사 후, 벌써 1년](http://woowabros.github.io/experience/2019/05/30/settle-history.html)
