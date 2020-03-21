@@ -295,6 +295,7 @@
 - [리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 1편](https://meetup.toast.com/posts/53)
 - [vim 사용하기](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim#AEN18)
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?fbclid=IwAR1lPi_5upmyPCjK45SCdwivKVcJaFhNrF5D2qVurKq4-3lP1YB9nucA89Y)
+- [[코드잇 꿀팁] 개발자라면 꼭 알아야 할 커맨드 꿀팁!](https://m.blog.naver.com/codeitofficial/221861721998?fbclid=IwAR0mhUoSZtqqrwwRgl45ipgrA8FrMDSheTrzCfFnqwU9QER8fAd1tPIdrlM)
 
 
 
